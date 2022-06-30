@@ -187,22 +187,22 @@ export const MainPortafolio = () => {
         
         <div className="work__container bd-grid">
             <a href="" className="work__img">
-                <img src="src/assets/img/work1.jpg" alt="" />
+                <img src="https://i.imgur.com/Ksmhq4y.jpg" alt="" />
             </a>
             <a href="" className="work__img">
-                <img src="src/assets/img/work2.jpg" alt="" />
+                <img src="https://i.imgur.com/tbikaa6.jpg" alt="" />
             </a>
             <a href="" className="work__img">
-                <img src="src/assets/img/work3.jpg" alt="" />
+                <img src="https://i.imgur.com/oUKg9D5.jpg" alt="" />
             </a>
             <a href="" className="work__img">
-                <img src="src/assets/img/work4.jpg" alt="" />
+                <img src="https://i.imgur.com/5mccmF7.jpg" alt="" />
             </a>
             <a href="" className="work__img">
-                <img src="src/assets/img/work5.jpg" alt="" />
+                <img src="https://i.imgur.com/97cohV2.jpg" alt="" />
             </a>
             <a href="" className="work__img">
-                <img src="src/assets/img/work6.jpg" alt="" />
+                <img src="https://i.imgur.com/fdTchzq.jpg" alt="" />
             </a>
         </div>
     </section>
