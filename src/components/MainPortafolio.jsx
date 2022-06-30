@@ -60,7 +60,7 @@ export const MainPortafolio = () => {
 
 
                     <div className="home__img">
-                        <img src="src\assets\img\monster.png" alt="" />
+                        <img src="https://i.imgur.com/12pvc9l.png" alt="" />
                     </div>
             </section>
             {/* ABOUT */}
@@ -68,13 +68,13 @@ export const MainPortafolio = () => {
                 <h2 className="section-title">About</h2>
                 <div className="about__container bd-grid">
                     <div className="about__img">
-                        <img src="src\assets\img\about.jpg" alt="" />
+                        <img src="https://i.imgur.com/cBo5zzk.jpg" alt="" />
                     </div>
                     <div>
                         <h2 className="about__subtitle">This is me!</h2>
                         <p className="about__text"> I'm a <span className="home__title-color">self-taught React developer</span> from Buenos Aires, Argentina.
               I love making layouts with personality and related to the purpose of the web that have an <span className="home__title-color">intuitive interface</span> for the user.</p>
-                        <img className="about__img2" src="src\assets\img\monster3.png" alt="" />
+                        <img className="about__img2" src="https://i.imgur.com/IahcCd4.png" alt="" />
                     </div>
                 </div>
             </section>
@@ -176,7 +176,7 @@ export const MainPortafolio = () => {
         
             </div>
         <div>
-            <img className="skills__img" src="src\assets\img\grafico.png" alt="" />
+            <img className="skills__img" src="https://i.imgur.com/2ziwGpO.png" alt="" />
             {/* <img className="skills__img2" src="src\assets\img\monster2.png" alt="" /> */}
         </div>
     </div>    
