@@ -29,7 +29,7 @@ export const Work = () => {
                </div>
             </a>
             <a href="https://alanvrtal.github.io/StoneEssences/" className="work__img">
-                <img src="https://i.imgur.com/5mccmF7.jpg" alt="" />
+                <img src="img\Stone.png" alt="" />
                 <div className="work__img-modal">
                 <span>Stone Essences Web</span>
                 <p>Empresa de ventas de Vapers <br /> (En desarrollo)</p>
