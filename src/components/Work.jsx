@@ -42,7 +42,7 @@ export const Work = () => {
                 <p>Mi contenedor de proyectos personales</p>
                </div>
             </a>
-            <a href="" className="work__img">
+            <a href="https://alanvrtal.github.io/QuoteMachine/" className="work__img">
                 <img src="img\QuoteMachine.png" alt="" />
                 <div className="work__img-modal">
                 <span>Quote Machine</span>

@@ -347,6 +347,9 @@ display: none;
   -webkit-box-shadow: -2px 18px 60px -1px rgba(0,0,0,0.41);
   -moz-box-shadow: -2px 18px 60px -1px rgba(0,0,0,0.41);
 }
+.work__img img{
+ object-fit: cover;
+}
 .work__img-modal {
 position: absolute;
 visibility: hidden;
